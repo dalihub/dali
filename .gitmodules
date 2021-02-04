@@ -1,0 +1,12 @@
+[submodule "dali-core"]
+	path = dali-core
+	url = git@github.com:dalihub/dali-core.git
+[submodule "dali-adaptor"]
+	path = dali-adaptor
+	url = git@github.com:dalihub/dali-adaptor.git
+[submodule "dali-toolkit"]
+	path = dali-toolkit
+	url = git@github.com:dalihub/dali-toolkit.git
+[submodule "dali-demo"]
+	path = dali-demo
+	url = git@github.com:dalihub/dali-demo.git
